@@ -1,6 +1,6 @@
 # Chat com seus documentos (RAG) com Transformers/LLM
 
-Projeto desenvolvido na matéria de Aprendizagem de Máquina e Mineração de Dados (DCA0133), que tem como objetivo criar um modelo de RAG que responde perguntas com base em PDFs ou TXTs enviados pelo usuário. Ela combina dois modelos baseados em Transformers: um para encontrar os trechos relevantes (embeddings) e outro para escrever a resposta (LLM), com uma interface feita com Gradio para melhor visualização.
+Projeto desenvolvido na matéria de Aprendizagem de Máquina e Mineração de Dados (DCA0133) juntamente de [Sara Gabrielly](https://github.com/Sgnsilv), que tem como objetivo criar um modelo de RAG que responde perguntas com base em PDFs ou TXTs enviados pelo usuário. Ela combina dois modelos baseados em Transformers: um para encontrar os trechos relevantes (embeddings) e outro para escrever a resposta (LLM), com uma interface feita com Gradio para melhor visualização.
 
 ## Como funciona
 
@@ -45,4 +45,4 @@ Os parâmetros ficam na célula 2 do notebook:
 
 ## Autor
 
-[Gabriel Uchôa e Sara Gabrielly] · [ Aprendizagem de Máquina e Mineração de Dados (DCA0133) / Departamento de Engenharia da Computação e Automação da UFRN] · 
+[Gabriel Uchôa](https://github.com/GabrielUchoa08) e [Sara Gabrielly](https://github.com/Sgnsilv) · Aprendizagem de Máquina e Mineração de Dados (DCA0133) / Departamento de Engenharia da Computação e Automação da UFRN · 
